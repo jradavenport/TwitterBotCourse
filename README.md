@@ -1,4 +1,4 @@
-<img src="https://github.com/jradavenport/TwitterBotCourse/blob/master/birdie.png" alt="robot" width="200"/>
+<img src="https://github.com/jradavenport/TwitterBotCourse/blob/master/assets/birdie.png" alt="robot" width="200"/>
 
 # TwitterBotCourse
 
