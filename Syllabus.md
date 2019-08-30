@@ -57,9 +57,10 @@ Class consists of weekly lectures on a variety of topics. Links to relevant mate
 
 ## Assignments
 
+*in prep*
 1. Find 3 examples of twitter bots. tell me their handle, in general what they do, and why you think they're a bot
 2. Form team of 2 ppl, decide on what your bot will try to do. Create a short proposal (detailed instructions to follow)
-
+3. 
 
 ## Grading
 Students will be graded on successfully completing ~5 homework assignments, designing and implementing a TwitterBot as a team, and producing a final report (short term paper). We will adopt the [Informatics standard grading scale](https://ischool.uw.edu/programs/informatics/curriculum/grading-scale).
