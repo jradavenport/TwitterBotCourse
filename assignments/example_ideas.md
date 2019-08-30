@@ -4,7 +4,8 @@ If you're having a hard time coming up with ideas to "propose" for your team's T
 
 ## Interactive Bots
 - Weather Bot: Users tweet @ WeatherBot with a valid US ZIP code, bot replies with latest forecast from National Weather Service API
-- Let Me Google That: Users send the bot a query, bot returns Google's Custom Search API result (within free query limits)
+- Tide Bot: Users tweet @ TideBot, and if location data is provided in the tweet, it returns localized high/low tide info from NOAA
+- Let Me Google That: Users send the bot a query, bot returns Google's Custom Search API result (running within free query limits)
 - Average Color Bot: Users send the bot a picture, bot computes the average color for the image. Bonus: gives it a funny name, based on some name generator...
 - Rhyme Bot: Bot tries to create a rhyme based on your username
 - Key Phrase Responder: Periodically watches the Twitter stream for a specific phrase (e.g. famous line from a book or movie, or quotes from a certain author), and Retweets when it sees it.
