@@ -22,3 +22,6 @@ If you're having a hard time coming up with ideas to "propose" for your team's T
 - Quote of the Day: selects a quote from a famous person every day from WikiQuote
 - Mashup bot: pairs a song from Free Music Archive API with an image from Flickr
 - Reminder Bot: tweets helpful (or semi-helpful, funny) things regularly for it's Followers to remember
+
+
+The two categories I have used are not definitive, and there are other taxonomies of TwitterBots to consider. For example, [Veale & Cook (2018)](https://mitpress.mit.edu/books/twitterbots) describe 3 classes of TwitterBots: Feed Bots, Watchers, and Interactors. Bots may also exhibit behaviors from multiple classes depending on the user's interaction, or perhaps even have behaviors not illustrated here. 
